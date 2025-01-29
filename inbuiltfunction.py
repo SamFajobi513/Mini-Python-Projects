@@ -16,7 +16,17 @@ print("Words:", words)
 # replace()
 
 
-# strip()
+# strip() - remove spaces
+Text = "  Joy is coming  "
+print(Text.strip())
 
 
-#
+# lower(), upper()
+Name = "OlusegunFunmisam"
+print(Name.upper());
+Name2 = "OLUWASEGUNFUNMI"
+print(Name2.lower())
+
+# len()
+Word = "wetretrytuyiyjgdfhgklgjlhfkfgggr"
+print("The length of the Word is", len(Word))
