@@ -30,3 +30,8 @@ print(Name2.lower())
 # len()
 Word = "wetretrytuyiyjgdfhgklgjlhfkfgggr"
 print("The length of the Word is", len(Word))
+
+# round()
+
+
+# abs()
