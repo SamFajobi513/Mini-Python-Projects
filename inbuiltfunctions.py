@@ -35,3 +35,11 @@ print("The length of the Word is", len(Word))
 
 
 # abs()
+# join()
+# startswith()
+#
+#
+# 
+# 
+# 
+#
