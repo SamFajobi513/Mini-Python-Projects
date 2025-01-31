@@ -12,3 +12,14 @@ Arithmetic operators in Python allow you to perform basic mathematical calculati
 5. **Floor Division (//):** Divides the left operand by the right operand and rounds down to the nearest whole number.
 6. **Modulus (%):** Returns the remainder of the division of the left operand by the right operand.
 7. **Exponentiation (**):** Raises the left operand to the power of the right operand.
+
+## Examples
+
+### Addition
+
+```python
+a = 5
+b = 3
+result = a + b
+print(result)  # Output: 8
+```
