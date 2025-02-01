@@ -32,3 +32,12 @@ y = 7
 result = x - y
 print(result)  # Output: 3
 ```
+
+
+
+#================Logical Operator==============
+# Logical Operations in Python
+
+## Introduction
+
+Logical operators in Python are used to manipulate and combine Boolean values. These operators allow you to perform logical operations such as AND, OR, and NOT.
