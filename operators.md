@@ -51,3 +51,19 @@ Logical operators in Python are used to manipulate and combine Boolean values. T
 ## Examples
 
 ### AND Operator
+
+```python
+x = True
+y = False
+result = x and y
+# result will be False
+```
+
+### OR Operator
+
+```python
+a = True
+b = False
+result = a or b
+# result will be True
+```
