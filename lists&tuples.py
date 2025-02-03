@@ -44,3 +44,8 @@ print(is_present)
 #Tuples can also contain elements of different data types.
 #Syntax: Tuples are defined using parentheses ().
 
+# Creating a tuple
+my_tuple = (10, "hello", 3.14, True)
+
+# Accessing Elements
+print(my_tuple[1])  # Output: hello
