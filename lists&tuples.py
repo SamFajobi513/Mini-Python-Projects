@@ -1,3 +1,9 @@
+#===============================Lists=======================================
+## What is a List?
+#A list is a fundamental data structure in programming that allows you to store a 
+# collection of items. Lists are ordered and can contain elements of various data types, 
+# such as numbers, strings, and objects.
+
 # Creating a list
 my_list = [10, "hello", 3.14, True]
 
@@ -29,3 +35,12 @@ for item in my_list:
 #Checking if an element is present in a List
 is_present = "boy" in my_list
 print(is_present)
+
+
+
+#=========================================Tuples=================================
+#Lists and Tuples are similar, however, lists are mutable while 
+#Definition: A tuple is an immutable, ordered collection of items. 
+#Tuples can also contain elements of different data types.
+#Syntax: Tuples are defined using parentheses ().
+
