@@ -49,3 +49,13 @@ my_tuple = (10, "hello", 3.14, True)
 
 # Accessing Elements
 print(my_tuple[1])  # Output: hello
+
+# Tuple Length
+print(len(my_tuple))  # Output: 4
+
+# Slicing a Tuple
+print(my_tuple[1:4])  # Output: ('hello', 3.14, True)
+
+# Iterating through the tuple
+for item in my_tuple:
+    print(item)
