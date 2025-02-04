@@ -75,3 +75,13 @@ while x <= 10:
         continue
     print(x)
     x += 1
+
+
+
+
+
+password = ""
+while password != "1234":  # Runs indefinitely until the correct password is entered
+    password = input("Enter password: ")
+
+print("Access granted!")
