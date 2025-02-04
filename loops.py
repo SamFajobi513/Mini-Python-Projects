@@ -19,3 +19,23 @@ items in the sequence have been processed."""
 fruits = ["banana", "mango", "pawpaw", "Pawpaw", "Orange"]
 for fruit in fruits:
     print(fruit)
+
+
+#Using range() Function
+for i in fruits:
+    print(i)
+    print("Sam")
+
+# Looping Through a String
+for letter in "PYTHON":
+    print(letter)
+
+
+
+## ================== While Loop==========
+#A while loop runs as long as a condition remains True.
+
+for i in range(10):
+    if i == 5:
+        break
+    print(i)
