@@ -35,7 +35,43 @@ for letter in "PYTHON":
 ## ================== While Loop==========
 #A while loop runs as long as a condition remains True.
 
+x = 0 
+while x <= 7:
+    print(x)
+    x += 1
+
+
+
+##============= Loop Control Statements ============
+#======== break statement =============== 
+#The "break" statement is used to exit a loop prematurely. When the "break" statement is encountered, the loop is terminated, 
+# and the program continues with the next statement after the loop.
+
 for i in range(10):
     if i == 5:
         break
     print(i)
+
+"""x = 2
+while x <= 10:
+    print(x)
+    if x == 5:
+        continue
+    x += 1"""
+
+x = 1
+while x <= 10:
+    if x == 5:
+        break
+    print(x)
+    x += 1
+
+
+print("continue statement")
+x = 2
+while x <= 10:
+    if x == 5:
+        x += 1
+        continue
+    print(x)
+    x += 1
