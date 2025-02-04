@@ -91,7 +91,11 @@ print("Access granted!")
 
 #
 #Print Odd Numbers from 1 to 10
+for i in range(1, 11, 2):
+    print(i)
 #Print Even Numbers from 1 to 10
+for i in range(1, 11):
+
 #Print Numbers from 1 to 10, but Stop at 7
 #Print Numbers from 1 to 10, Skipping 5
 #Print Numbers from 1 to 10 Using while Loop
