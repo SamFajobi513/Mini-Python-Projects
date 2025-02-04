@@ -86,3 +86,15 @@ while password != "1234":  # Runs indefinitely until the correct password is ent
     password = input("Enter password: ")
 
 print("Access granted!")
+
+#Tasks
+
+#
+#Print Odd Numbers from 1 to 10
+#Print Even Numbers from 1 to 10
+#Print Numbers from 1 to 10, but Stop at 7
+#Print Numbers from 1 to 10, Skipping 5
+#Print Numbers from 1 to 10 Using while Loop
+#Print Multiples of 3 from 1 to 20
+#Print Numbers Until the Sum Reaches 20
+#    #
