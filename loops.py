@@ -87,7 +87,7 @@ while password != "1234":  # Runs indefinitely until the correct password is ent
 
 print("Access granted!")
 
-#Tasks
+#======================= Task 2 ==========================
 
 #
 #Print Odd Numbers from 1 to 10
