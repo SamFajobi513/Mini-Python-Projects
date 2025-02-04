@@ -76,8 +76,9 @@ while x <= 10:
     print(x)
     x += 1
 
-
-
+#Print Numbers from 10 to 1 in Reverse
+for num in range(10, 0, -1):
+    print(num)
 
 
 password = ""
