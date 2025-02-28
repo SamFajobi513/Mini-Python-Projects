@@ -62,3 +62,14 @@ import random
 # for i in range(x):
 #     print("Hello")
 # Result: print Hello x times
+
+# A program to check for an ATM card number
+num = random.randint(1000, 9999)
+GuessATM = eval(input("Enter your ATM card number: "))
+# if GuessATM == num:
+#     print("Correct, you guessed right, let's proceed")
+# else:
+#     print("Wrong, you guessed wrong, try again")
+# Result: if the user guess the correct number, it will print "Correct, you guessed right, let's proceed"
+
+
