@@ -48,7 +48,17 @@ import random
 #    print(randint(3, 6), end="")
 # Result: 544346553544554355644656543655666334633665435645435
 
-x = random.randint(1,50)
-y = random.randint(2,5)
-print("x is " f"{x}", "y is " f"{y}")
-print(x**y)
+
+# Write a program that generates a random number, x, between 1 and 50, a random number y
+#  between 2 and 5, and computes xy
+# x = random.randint(1,50)
+# y = random.randint(2,5)
+# print("x is " f"{x}", "y is " f"{y}")
+# print(x**y)
+
+# Write a program that generates a random number between 1 and 10 and prints your name
+# that many times
+# x = random.randint(1, 10)
+# for i in range(x):
+#     print("Hello")
+# Result: print Hello x times
